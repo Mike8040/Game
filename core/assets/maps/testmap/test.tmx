@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="120" height="26" tilewidth="104" tileheight="104" infinite="0" nextlayerid="6" nextobjectid="58">
+ <tileset firstgid="1" source="tileset/tileset1.tsx"/>
+ <layer id="1" name="Graphics" width="120" height="26">
+  <data encoding="base64" compression="zlib">
+   eAHt1DEKhTAMgGE7CLp4CQ/h7AUc9P53EUEhBJrS2tYi/1teY5M0fgW7jh8CCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCQX2DJ35KOCGQVmCK7xeZf7VNqIsci3RDYjT29FZMra1PrZI/S67X0AfT/TOC6W+73M/6iBz93y/0WZa7aXN6pXFtDHGLTtxYpr5bzXT2qLk7Fg4oJ6wpY3wRrr+6UnJYq8HwbdL3vuc4jRuBPAk69TOvxds/r+w/N36v3DcWhfq3vn9uqCHg=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Ground">
+  <object id="12" x="0" y="2288" width="4576" height="104"/>
+  <object id="25" x="5408" y="2288" width="832" height="104"/>
+  <object id="26" x="6240" y="1872" width="104" height="416"/>
+  <object id="27" x="6344" y="1872" width="1144" height="104"/>
+  <object id="28" x="7384" y="1976" width="104" height="312"/>
+  <object id="31" x="7488" y="2288" width="3432" height="104"/>
+  <object id="32" x="10920" y="2288" width="1560" height="104"/>
+  <object id="51" x="4521.41" y="-4926.32"/>
+  <object id="52" x="4576" y="2288" width="104" height="104"/>
+  <object id="53" x="4680" y="2392" width="104" height="104"/>
+  <object id="54" x="4784" y="2496" width="416" height="104"/>
+  <object id="55" x="5200" y="2392" width="104" height="104"/>
+  <object id="56" x="5304" y="2288" width="104" height="104"/>
+  <object id="57" x="5575.76" y="3300"/>
+ </objectgroup>
+ <objectgroup id="3" name="Bricks">
+  <object id="33" x="7904" y="1560" width="416" height="208"/>
+  <object id="34" x="9152" y="1560" width="416" height="208"/>
+  <object id="35" x="10504" y="1560" width="416" height="208"/>
+  <object id="42" x="1872" y="2184" width="624" height="104"/>
+  <object id="43" x="2184" y="2080" width="312" height="104"/>
+  <object id="44" x="2288" y="1976" width="208" height="104"/>
+  <object id="45" x="2392" y="1872" width="104" height="104"/>
+  <object id="46" x="2200" y="3063.64" width="3.0303"/>
+  <object id="47" x="11920" y="-2928"/>
+  <object id="48" x="11872" y="-2624" height="16"/>
+  <object id="49" x="4576" y="-2368"/>
+  <object id="50" x="12000" y="-2896"/>
+ </objectgroup>
+ <objectgroup id="4" name="Webs">
+  <object id="36" x="3224" y="2184" width="936" height="104"/>
+  <object id="37" x="8008" y="1768" width="312" height="104"/>
+  <object id="38" x="9152" y="1768" width="312" height="104"/>
+  <object id="39" x="10608" y="1768" width="312" height="104"/>
+ </objectgroup>
+ <objectgroup id="5" name="Spooder">
+  <object id="40" x="2808" y="1560" width="104" height="104"/>
+  <object id="41" x="-912" y="5504"/>
+ </objectgroup>
+</map>

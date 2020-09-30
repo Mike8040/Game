@@ -1,0 +1,385 @@
+
+completePlayerSpriteSheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead_
+  rotate: false
+  xy: 1, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 0
+Dead_
+  rotate: false
+  xy: 1, 1
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 1
+Dead_
+  rotate: false
+  xy: 485, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 2
+Dead_
+  rotate: false
+  xy: 485, 1
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 3
+
+completePlayerSpriteSheet2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead_
+  rotate: false
+  xy: 1, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 4
+Dead_
+  rotate: false
+  xy: 1, 1
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 5
+Dead_
+  rotate: false
+  xy: 485, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 6
+Dead_
+  rotate: false
+  xy: 485, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 7
+Dead_
+  rotate: false
+  xy: 485, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 8
+Dead_
+  rotate: false
+  xy: 485, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 9
+Jump_
+  rotate: false
+  xy: 485, 16
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 0
+
+completePlayerSpriteSheet3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_
+  rotate: false
+  xy: 1, 486
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 1
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 2
+Jump_
+  rotate: false
+  xy: 365, 486
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 3
+Jump_
+  rotate: false
+  xy: 365, 486
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 4
+Jump_
+  rotate: false
+  xy: 365, 486
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 5
+Jump_
+  rotate: false
+  xy: 365, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 6
+Climb
+  rotate: false
+  xy: 729, 505
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 0
+Climb
+  rotate: false
+  xy: 729, 39
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 1
+
+completePlayerSpriteSheet4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_
+  rotate: false
+  xy: 1, 486
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 7
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 8
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 9
+Run_
+  rotate: false
+  xy: 365, 511
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 0
+Run_
+  rotate: false
+  xy: 365, 51
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 1
+Climb
+  rotate: false
+  xy: 730, 505
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 2
+Climb
+  rotate: false
+  xy: 730, 39
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 3
+
+completePlayerSpriteSheet5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 473
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 2
+Run_
+  rotate: false
+  xy: 1, 13
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 3
+Run_
+  rotate: false
+  xy: 366, 473
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 4
+Run_
+  rotate: false
+  xy: 366, 13
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 5
+Climb
+  rotate: false
+  xy: 731, 467
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 4
+Climb
+  rotate: false
+  xy: 731, 1
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 5
+
+completePlayerSpriteSheet6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 473
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 6
+Run_
+  rotate: false
+  xy: 1, 13
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 7
+Run_
+  rotate: false
+  xy: 366, 473
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 8
+Run_
+  rotate: false
+  xy: 366, 13
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 9
+Climb
+  rotate: false
+  xy: 731, 467
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 6
+Climb
+  rotate: false
+  xy: 731, 1
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 7
+
+completePlayerSpriteSheet7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Climb
+  rotate: false
+  xy: 1, 467
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 8
+Climb
+  rotate: false
+  xy: 1, 1
+  size: 282, 464
+  orig: 282, 464
+  offset: 0, 0
+  index: 9
+Idle_
+  rotate: false
+  xy: 285, 492
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 0
+Idle_
+  rotate: false
+  xy: 285, 51
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 1
+Idle_
+  rotate: false
+  xy: 285, 51
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 9
+Idle_
+  rotate: false
+  xy: 519, 492
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 2
+Idle_
+  rotate: false
+  xy: 519, 492
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 8
+Idle_
+  rotate: false
+  xy: 519, 51
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 3
+Idle_
+  rotate: false
+  xy: 519, 51
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 7
+Idle_
+  rotate: false
+  xy: 753, 492
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 4
+Idle_
+  rotate: false
+  xy: 753, 492
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 6
+Idle_
+  rotate: false
+  xy: 753, 51
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 5
